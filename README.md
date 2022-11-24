@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pushpendraa3
-- 👀 I’m interested in React, JS, football and coffee are some of my interests.
+- 👀 I’m interested in React, JS, football and coffee.
 - 🌱 I’m currently learning Web Development, AWS Cloud.
 - 💞️ I’m looking to collaborate on Web Development projects which are open source.
 - 
