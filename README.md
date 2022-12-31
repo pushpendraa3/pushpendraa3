@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pushpendra Singh Bhadoriya. An HTML email Specialist.
+- 👋 Hi, I’m Pushpendra Singh Bhadoriya. A Web Developer.
 - 👀 I’m interested in React, JS, football and coffee.
 - 🌱 I’m currently learning the complete campaign development for email marketing.
 - 💞️ I’m looking to collaborate on Web Development projects which are open source.
