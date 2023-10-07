@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pushpendra Singh Bhadoriya. A Web Developer.
 - 👀 I’m interested in React, JS, football and coffee.
-- 🌱 I’m currently learning the complete campaign development for email marketing.
+- 🌱 I’m currently learning making websites end to end using MERN stack.
 - 💞️ I’m looking to collaborate on Web Development projects which are open source.
  
 - 📫 How to reach me ...
